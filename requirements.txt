@@ -1,0 +1,7 @@
+flask
+jinja2
+werkzeug
+click
+itsdangerous
+python3
+sqlite3
